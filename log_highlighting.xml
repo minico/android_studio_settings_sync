@@ -2,7 +2,7 @@
   <component name="LogHighlightingSettings">
     <Patterns>
       <list>
-        <LogHighlightingPattern pattern="^\s*\[E\]\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
+        <LogHighlightingPattern pattern="^.+\[E\].+$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" />
         <LogHighlightingPattern pattern="^.+\[W\].+$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
       </list>
@@ -15,7 +15,7 @@
         <LogParsingPattern name="Arya" pattern="^\[.+$" timePattern="MM-dd HH:mm:ss.SSS" linePattern="^\[" />
       </list>
     </parsing>
-    <settingsVersion>3</settingsVersion>
+    <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
     <errorStripeModel>normal</errorStripeModel>
   </component>
