@@ -8,5 +8,6 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="cidr.max.intellisense.file.length" value="500000000" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
