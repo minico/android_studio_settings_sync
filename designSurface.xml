@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/feature_setting.xml" value="0.1" />
         <entry key="app/src/main/res/layout/test_core_video_layout.xml" value="0.18229166666666666" />
       </map>
     </option>
