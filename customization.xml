@@ -5,5 +5,15 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.CompareWithBranch" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+      <path value="Vcs.MainMenu" />
+      <path value="VCS Group" />
+      <path value="Git" />
+      <path value="Git.FileActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
