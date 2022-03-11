@@ -8,7 +8,7 @@
             <value value="95c23a05" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-11T06:02:15.801596Z" />
+        <lastOnlineTime value="2022-03-11T07:51:31.647539Z" />
         <name value="vivo V1922A" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -22,6 +22,18 @@
         </key>
         <lastOnlineTime value="2022-03-11T01:36:27.592688Z" />
         <name value="HUAWEI NOH-AN01" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e984cff9" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-11T07:53:30.133963Z" />
+        <name value="vivo vivo NEX A" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
