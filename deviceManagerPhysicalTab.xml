@@ -5,10 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="c2a6af1" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-19T02:47:27.991570Z" />
+        <name value="Xiaomi Redmi Note 5" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="95c23a05" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-15T02:25:13.272227Z" />
+        <lastOnlineTime value="2022-04-19T02:47:27.993297Z" />
         <name value="vivo V1922A" />
         <target value="Android 11.0" />
         <api value="30" />
