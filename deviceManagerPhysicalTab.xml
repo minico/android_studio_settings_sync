@@ -5,22 +5,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="c2a6af1" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-19T06:42:43.143075Z" />
-        <name value="Xiaomi Redmi Note 5" />
-        <target value="Android 9.0" />
-        <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="95c23a05" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-19T06:46:06.431070Z" />
         <name value="vivo V1922A" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -29,10 +16,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="c2a6af1" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 5" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="2FD0221408013570" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-11T01:36:27.592688Z" />
         <name value="HUAWEI NOH-AN01" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -44,7 +41,6 @@
             <value value="e984cff9" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-11T07:53:30.133963Z" />
         <name value="vivo vivo NEX A" />
         <target value="Android 10.0" />
         <api value="29" />
