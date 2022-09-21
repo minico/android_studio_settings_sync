@@ -1,5 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="favosoft" />
+    <option name="nonFavorites">
+      <list>
+        <option value="favosoft" />
+      </list>
+    </option>
   </component>
 </application>
