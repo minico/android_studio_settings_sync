@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="OnFetchPcmWithCustomData" />
     <option name="nonFavorites">
       <list>
+        <option value="OnFetchPcmWithCustomData" />
         <option value="favosoft" />
       </list>
     </option>
