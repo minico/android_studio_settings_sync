@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exceed" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="streamlake" />
+        <option value="ktv" />
+        <option value="startaudiorecording" />
         <option value="exceed" />
         <option value="OnFetchPcmWithCustomData" />
         <option value="favosoft" />
