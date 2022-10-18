@@ -4,6 +4,10 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.23796296296296296" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.4270833333333333" />
+        <entry key="app/src/main/res/layout/activity_audio_play_record.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_call.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_call_sub_videoview.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_feature.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_rtc_engine_video_chat.xml" value="0.228125" />
         <entry key="app/src/main/res/layout/dialog_tuning_layout.xml" value="0.4005208333333333" />
         <entry key="app/src/main/res/layout/feature_setting.xml" value="0.1" />
