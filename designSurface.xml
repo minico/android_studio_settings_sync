@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/layout/feature_setting.xml" value="0.33" />
         <entry key="app/src/main/res/layout/private_dialog.xml" value="0.2984375" />
         <entry key="app/src/main/res/layout/test_core_video_layout.xml" value="0.18229166666666666" />
+        <entry key="audiodemo/src/main/res/layout/audio_mixing_layout.xml" value="0.315625" />
       </map>
     </option>
   </component>
