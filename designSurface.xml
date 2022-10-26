@@ -2,8 +2,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/feature_setting.xml" value="0.1" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.23796296296296296" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.4270833333333333" />
+        <entry key="app/src/main/res/layout/activity_audio_play_record.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_call.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_call_sub_videoview.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_feature.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_rtc_engine_video_chat.xml" value="0.228125" />
+        <entry key="app/src/main/res/layout/dialog_tuning_layout.xml" value="0.4005208333333333" />
+        <entry key="app/src/main/res/layout/feature_setting.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/private_dialog.xml" value="0.2984375" />
         <entry key="app/src/main/res/layout/test_core_video_layout.xml" value="0.18229166666666666" />
+        <entry key="audiodemo/src/main/res/layout/audio_mixing_layout.xml" value="0.315625" />
       </map>
     </option>
   </component>
