@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="stopPush" />
         <option value="streamlake" />
         <option value="ktv" />
         <option value="startaudiorecording" />
