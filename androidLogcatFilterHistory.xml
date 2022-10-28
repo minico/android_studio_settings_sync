@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.smile.video.livedemo" />
     <option name="nonFavorites">
       <list>
+        <option value="com.smile.video.livedemo" />
+        <option value="startpush" />
         <option value="stopPush" />
         <option value="streamlake" />
         <option value="ktv" />
