@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="18045-18055" />
+    <option name="mostRecentlyUsed" value="&quot;Voip this&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;Voip this&quot;" />
+        <option value="~KRTC2" />
         <option value="18045-18055" />
         <option value="~KRTC" />
         <option value="~VoipWrapper" />
-        <option value="~KRTC2" />
         <option value="livedemo" />
         <option value="Uninit" />
-        <option value="&quot;Voip this&quot;" />
         <option value="~Voip" />
         <option value="destroy" />
         <option value="voip this" />
