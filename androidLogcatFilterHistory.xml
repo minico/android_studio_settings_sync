@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="initAudioEngine" />
     <option name="nonFavorites">
       <list>
+        <option value="initAudioEngine" />
+        <option value="destroyInstance" />
         <option value="&quot;Voip this&quot;" />
+        <option value="~VoipWrapper" />
+        <option value="~KRTC" />
         <option value="~KRTC2" />
         <option value="18045-18055" />
-        <option value="~KRTC" />
-        <option value="~VoipWrapper" />
         <option value="livedemo" />
         <option value="Uninit" />
         <option value="~Voip" />
@@ -21,7 +23,6 @@
         <option value="startaudiorecording" />
         <option value="exceed" />
         <option value="OnFetchPcmWithCustomData" />
-        <option value="favosoft" />
       </list>
     </option>
   </component>
