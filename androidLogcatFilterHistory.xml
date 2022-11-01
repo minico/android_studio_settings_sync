@@ -3,10 +3,10 @@
     <option name="mostRecentlyUsed" value="&quot;Voip this&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="~VoipWrapper" />
         <option value="&quot;Voip this&quot;" />
         <option value="initAudioEngine" />
         <option value="destroyInstance" />
-        <option value="~VoipWrapper" />
         <option value="~KRTC" />
         <option value="~KRTC2" />
         <option value="18045-18055" />
