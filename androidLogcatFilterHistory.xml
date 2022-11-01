@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initAudioEngine" />
+    <option name="mostRecentlyUsed" value="&quot;Voip this&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;Voip this&quot;" />
         <option value="initAudioEngine" />
         <option value="destroyInstance" />
-        <option value="&quot;Voip this&quot;" />
         <option value="~VoipWrapper" />
         <option value="~KRTC" />
         <option value="~KRTC2" />
