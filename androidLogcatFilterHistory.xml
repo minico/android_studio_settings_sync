@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;Voip this&quot;" />
+    <option name="mostRecentlyUsed" value="setPara" />
     <option name="nonFavorites">
       <list>
+        <option value="setPara" />
         <option value="~VoipWrapper" />
         <option value="&quot;Voip this&quot;" />
         <option value="initAudioEngine" />
@@ -22,7 +23,6 @@
         <option value="ktv" />
         <option value="startaudiorecording" />
         <option value="exceed" />
-        <option value="OnFetchPcmWithCustomData" />
       </list>
     </option>
   </component>
