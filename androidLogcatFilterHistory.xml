@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="~Voip" />
         <option value="InputRawAudio" />
         <option value="setPara" />
@@ -22,7 +23,6 @@
         <option value="stopPush" />
         <option value="streamlake" />
         <option value="ktv" />
-        <option value="startaudiorecording" />
       </list>
     </option>
   </component>
