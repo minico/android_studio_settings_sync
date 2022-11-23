@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.h</mask>
     <mask>*.cc</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
