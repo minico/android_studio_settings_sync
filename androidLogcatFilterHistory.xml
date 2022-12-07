@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="onforeground" />
     <option name="nonFavorites">
       <list>
+        <option value="onforeground" />
+        <option value="background" />
         <option value="package:mine " />
         <option value="~Voip" />
         <option value="InputRawAudio" />
@@ -21,8 +23,6 @@
         <option value="com.smile.video.livedemo" />
         <option value="startpush" />
         <option value="stopPush" />
-        <option value="streamlake" />
-        <option value="ktv" />
       </list>
     </option>
   </component>
