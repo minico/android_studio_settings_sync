@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="exception" />
     <option name="nonFavorites">
       <list>
+        <option value="exception" />
+        <option value="CoreVideoRtcTest" />
         <option value="package:mine " />
+        <option value="startpushimage" />
         <option value="minepackage" />
         <option value="onforeground" />
         <option value="background" />
@@ -20,9 +23,6 @@
         <option value="livedemo" />
         <option value="Uninit" />
         <option value="destroy" />
-        <option value="voip this" />
-        <option value="com.smile.video.livedemo" />
-        <option value="startpush" />
       </list>
     </option>
   </component>
