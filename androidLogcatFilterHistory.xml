@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="corevideo" />
+    <option name="mostRecentlyUsed" value="XXXX" />
     <option name="nonFavorites">
       <list>
+        <option value="XXXX" />
         <option value="corevideo" />
         <option value="exception" />
         <option value="CoreVideoRtcTest" />
@@ -22,7 +23,6 @@
         <option value="~KRTC2" />
         <option value="18045-18055" />
         <option value="livedemo" />
-        <option value="Uninit" />
       </list>
     </option>
   </component>
