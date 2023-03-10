@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="abi" />
     <option name="nonFavorites">
       <list>
+        <option value="abi" />
         <option value="onMediaQua" />
         <option value="package:mine " />
         <option value="XXXX" />
@@ -22,7 +23,6 @@
         <option value="destroyInstance" />
         <option value="~KRTC" />
         <option value="~KRTC2" />
-        <option value="18045-18055" />
       </list>
     </option>
   </component>
