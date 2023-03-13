@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="abi" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="abi" />
         <option value="onMediaQua" />
-        <option value="package:mine " />
         <option value="XXXX" />
         <option value="corevideo" />
         <option value="exception" />
