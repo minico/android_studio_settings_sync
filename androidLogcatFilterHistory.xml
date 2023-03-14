@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="setAudioRxVolume" />
+    <option name="mostRecentlyUsed" value="indication" />
     <option name="nonFavorites">
       <list>
+        <option value="indication" />
         <option value="XXX" />
         <option value="setAudioRxVolume" />
         <option value="XXXX" />
@@ -22,7 +23,6 @@
         <option value="background" />
         <option value="~Voip" />
         <option value="InputRawAudio" />
-        <option value="setPara" />
       </list>
     </option>
   </component>
