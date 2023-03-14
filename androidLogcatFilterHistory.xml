@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="onFirstRemoteVideoFrame" />
     <option name="nonFavorites">
       <list>
+        <option value="onFirstRemoteVideoFrame" />
+        <option value="onFirstRemoteAudioFrame" />
         <option value="package:mine " />
         <option value="VideoCallExtRtcTest" />
         <option value="onAudioVolumeIndication" />
@@ -21,8 +23,6 @@
         <option value="CoreVideoRtcTest" />
         <option value="startpushimage" />
         <option value="minepackage" />
-        <option value="onforeground" />
-        <option value="background" />
       </list>
     </option>
   </component>
