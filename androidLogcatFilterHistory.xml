@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="CallSessionManager" />
+        <option value="enabledual" />
         <option value="package:mine " />
         <option value="abi" />
         <option value="onMediaQua" />
@@ -22,7 +23,6 @@
         <option value="&quot;Voip this&quot;" />
         <option value="initAudioEngine" />
         <option value="destroyInstance" />
-        <option value="~KRTC" />
       </list>
     </option>
   </component>
