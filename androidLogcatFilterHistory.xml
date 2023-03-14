@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CallSessionManager" />
+    <option name="mostRecentlyUsed" value="setAudioRxVolume" />
     <option name="nonFavorites">
       <list>
+        <option value="XXX" />
+        <option value="setAudioRxVolume" />
+        <option value="XXXX" />
+        <option value="addRxStream with volume" />
+        <option value="adjustPlaybackVolume" />
         <option value="CallSessionManager" />
         <option value="enabledual" />
         <option value="package:mine " />
         <option value="abi" />
         <option value="onMediaQua" />
-        <option value="XXXX" />
         <option value="corevideo" />
         <option value="exception" />
         <option value="CoreVideoRtcTest" />
@@ -19,10 +23,6 @@
         <option value="~Voip" />
         <option value="InputRawAudio" />
         <option value="setPara" />
-        <option value="~VoipWrapper" />
-        <option value="&quot;Voip this&quot;" />
-        <option value="initAudioEngine" />
-        <option value="destroyInstance" />
       </list>
     </option>
   </component>
