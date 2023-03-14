@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="CallSessionManager" />
     <option name="nonFavorites">
       <list>
+        <option value="CallSessionManager" />
         <option value="package:mine " />
         <option value="abi" />
         <option value="onMediaQua" />
@@ -22,7 +23,6 @@
         <option value="initAudioEngine" />
         <option value="destroyInstance" />
         <option value="~KRTC" />
-        <option value="~KRTC2" />
       </list>
     </option>
   </component>
