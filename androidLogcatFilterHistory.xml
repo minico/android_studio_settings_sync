@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="XXX" />
     <option name="nonFavorites">
       <list>
+        <option value="XXX" />
         <option value="package:mine " />
         <option value="onFirstRemoteVideoFrame" />
         <option value="onFirstRemoteAudioFrame" />
         <option value="VideoCallExtRtcTest" />
         <option value="onAudioVolumeIndication" />
         <option value="indication" />
-        <option value="XXX" />
         <option value="setAudioRxVolume" />
         <option value="XXXX" />
         <option value="addRxStream with volume" />
