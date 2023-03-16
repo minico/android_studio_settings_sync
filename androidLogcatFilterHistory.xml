@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="XXX" />
     <option name="nonFavorites">
       <list>
-        <option value="XXXX got sei" />
+        <option value="XXX" />
         <option value="onReceiveSeiMessage" />
+        <option value="onReceiveStreamMessage" />
+        <option value="XXXX got sei" />
         <option value="onreceives" />
         <option value="package:mine " />
         <option value="package:mine unreg" />
         <option value="package:mine onreceive" />
         <option value="package:mine XXXX got sei" />
         <option value="package:mine XXXX" />
-        <option value="XXX" />
         <option value="onFirstRemoteVideoFrame" />
         <option value="onFirstRemoteAudioFrame" />
         <option value="VideoCallExtRtcTest" />
@@ -22,7 +23,6 @@
         <option value="addRxStream with volume" />
         <option value="adjustPlaybackVolume" />
         <option value="CallSessionManager" />
-        <option value="enabledual" />
       </list>
     </option>
   </component>
