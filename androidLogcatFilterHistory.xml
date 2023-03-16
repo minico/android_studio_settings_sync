@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onreceive" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine unreg" />
         <option value="package:mine onreceive" />
         <option value="package:mine XXXX got sei" />
         <option value="package:mine XXXX" />
-        <option value="package:mine " />
         <option value="XXX" />
         <option value="onFirstRemoteVideoFrame" />
         <option value="onFirstRemoteAudioFrame" />
@@ -22,7 +23,6 @@
         <option value="abi" />
         <option value="onMediaQua" />
         <option value="corevideo" />
-        <option value="exception" />
       </list>
     </option>
   </component>
