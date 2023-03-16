@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine XXXX" />
+    <option name="mostRecentlyUsed" value="package:mine XXXX got sei" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine XXXX got sei" />
         <option value="package:mine XXXX" />
         <option value="package:mine " />
         <option value="XXX" />
@@ -22,7 +23,6 @@
         <option value="corevideo" />
         <option value="exception" />
         <option value="CoreVideoRtcTest" />
-        <option value="startpushimage" />
       </list>
     </option>
   </component>
