@@ -3,6 +3,9 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="XXXX got sei" />
+        <option value="onReceiveSeiMessage" />
+        <option value="onreceives" />
         <option value="package:mine " />
         <option value="package:mine unreg" />
         <option value="package:mine onreceive" />
@@ -20,9 +23,6 @@
         <option value="adjustPlaybackVolume" />
         <option value="CallSessionManager" />
         <option value="enabledual" />
-        <option value="abi" />
-        <option value="onMediaQua" />
-        <option value="corevideo" />
       </list>
     </option>
   </component>
