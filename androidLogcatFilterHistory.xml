@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onNetworkQuality" />
+    <option name="mostRecentlyUsed" value="qos:" />
     <option name="nonFavorites">
       <list>
+        <option value="qos:" />
         <option value="onNetworkQuality" />
         <option value="package:mine " />
         <option value="XXX" />
@@ -22,7 +23,6 @@
         <option value="setAudioRxVolume" />
         <option value="XXXX" />
         <option value="addRxStream with volume" />
-        <option value="adjustPlaybackVolume" />
       </list>
     </option>
   </component>
