@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="qos:" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="qos:" />
         <option value="onNetworkQuality" />
-        <option value="package:mine " />
         <option value="XXX" />
         <option value="onReceiveSeiMessage" />
         <option value="onReceiveStreamMessage" />
