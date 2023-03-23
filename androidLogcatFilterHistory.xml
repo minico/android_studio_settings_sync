@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onRawVideo" />
+    <option name="mostRecentlyUsed" value="XXXX" />
     <option name="nonFavorites">
       <list>
+        <option value="XXXX" />
         <option value="onRawVideo" />
         <option value="setCameraTorchOn" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="VideoCallExtRtcTest" />
         <option value="onAudioVolumeIndication" />
         <option value="indication" />
-        <option value="setAudioRxVolume" />
       </list>
     </option>
   </component>
