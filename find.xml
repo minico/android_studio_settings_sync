@@ -15,5 +15,6 @@
     <mask>*.gradle</mask>
     <mask>*.cc</mask>
     <mask>*.java</mask>
+    <mask>*.pro</mask>
   </component>
 </application>
