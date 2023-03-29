@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="XXXX" />
         <option value="onRawVideo" />
         <option value="setCameraTorchOn" />
-        <option value="package:mine " />
         <option value="qos:" />
         <option value="onNetworkQuality" />
         <option value="XXX" />
