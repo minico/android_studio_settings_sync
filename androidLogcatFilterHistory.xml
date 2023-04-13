@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="publishcdn" />
         <option value="package:mine " />
         <option value="XXXX" />
         <option value="onRawVideo" />
@@ -22,7 +23,6 @@
         <option value="onFirstRemoteAudioFrame" />
         <option value="VideoCallExtRtcTest" />
         <option value="onAudioVolumeIndication" />
-        <option value="indication" />
       </list>
     </option>
   </component>
