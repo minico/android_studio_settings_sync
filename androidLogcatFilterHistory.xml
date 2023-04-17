@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RtcEngine" />
+    <option name="mostRecentlyUsed" value="package:mine rtcengine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine rtcengine" />
+        <option value="package:mine " />
         <option value="RtcEngine" />
         <option value=" USING DEFAULT So Loader Now! it is not Robust" />
         <option value="publishcdn" />
-        <option value="package:mine " />
         <option value="XXXX" />
         <option value="onRawVideo" />
         <option value="setCameraTorchOn" />
@@ -22,7 +23,6 @@
         <option value="package:mine XXXX got sei" />
         <option value="package:mine XXXX" />
         <option value="onFirstRemoteVideoFrame" />
-        <option value="onFirstRemoteAudioFrame" />
       </list>
     </option>
   </component>
