@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onOpenCameraFailed" />
+    <option name="mostRecentlyUsed" value="onRawvideo" />
     <option name="nonFavorites">
       <list>
+        <option value="onRawvideo" />
         <option value="onOpenCameraFailed" />
         <option value="package:mine " />
         <option value="package:mine rtcengine" />
@@ -22,7 +23,6 @@
         <option value="package:mine unreg" />
         <option value="package:mine onreceive" />
         <option value="package:mine XXXX got sei" />
-        <option value="package:mine XXXX" />
       </list>
     </option>
   </component>
