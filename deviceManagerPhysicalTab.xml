@@ -16,23 +16,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="FNENW20227003293" />
-          </Key>
-        </key>
-        <name value="HUAWEI STK-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="95c23a05" />
           </Key>
         </key>
         <name value="vivo V1922A" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FNENW20227003293" />
+          </Key>
+        </key>
+        <name value="HUAWEI STK-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
