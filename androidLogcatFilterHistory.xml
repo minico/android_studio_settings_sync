@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onRawvideo" />
         <option value="onOpenCameraFailed" />
-        <option value="package:mine " />
         <option value="package:mine rtcengine" />
         <option value="RtcEngine" />
         <option value=" USING DEFAULT So Loader Now! it is not Robust" />
