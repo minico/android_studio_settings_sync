@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="CameraControllerImpl" />
+        <option value="camera" />
         <option value="package:mine " />
         <option value="onRawvideo" />
         <option value="onOpenCameraFailed" />
@@ -20,8 +23,6 @@
         <option value="XXXX got sei" />
         <option value="onreceives" />
         <option value="package:mine unreg" />
-        <option value="package:mine onreceive" />
-        <option value="package:mine XXXX got sei" />
       </list>
     </option>
   </component>
