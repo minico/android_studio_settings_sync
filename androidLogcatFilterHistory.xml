@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Camera2Session" />
     <option name="nonFavorites">
       <list>
+        <option value="Camera onDisconnected" />
+        <option value="Camera2Session" />
+        <option value="disconnect" />
         <option value="CameraControllerImpl" />
         <option value="camera" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="XXX" />
         <option value="onReceiveSeiMessage" />
         <option value="onReceiveStreamMessage" />
-        <option value="XXXX got sei" />
-        <option value="onreceives" />
-        <option value="package:mine unreg" />
       </list>
     </option>
   </component>
