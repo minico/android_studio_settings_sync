@@ -110,6 +110,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2f1af391" />
+          </Key>
+        </key>
+        <name value="OPPO PBEM00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
