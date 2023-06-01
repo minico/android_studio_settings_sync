@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="camera" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="camera" />
         <option value="Camera onDisconnected" />
         <option value="Camera2Session" />
         <option value="disconnect" />
         <option value="CameraControllerImpl" />
-        <option value="package:mine " />
         <option value="onRawvideo" />
         <option value="onOpenCameraFailed" />
         <option value="package:mine rtcengine" />
