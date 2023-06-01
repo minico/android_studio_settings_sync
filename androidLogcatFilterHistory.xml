@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onPause" />
     <option name="nonFavorites">
       <list>
+        <option value="onPause" />
         <option value="camera" />
         <option value="package:mine " />
         <option value="Camera onDisconnected" />
@@ -22,7 +23,6 @@
         <option value="onNetworkQuality" />
         <option value="XXX" />
         <option value="onReceiveSeiMessage" />
-        <option value="onReceiveStreamMessage" />
       </list>
     </option>
   </component>
