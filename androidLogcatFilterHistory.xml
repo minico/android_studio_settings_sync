@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="audioinner" />
     <option name="nonFavorites">
       <list>
+        <option value="audioinner" />
         <option value="XXX" />
         <option value="package:mine " />
         <option value="package" />
@@ -22,7 +23,6 @@
         <option value="RtcEngine" />
         <option value=" USING DEFAULT So Loader Now! it is not Robust" />
         <option value="publishcdn" />
-        <option value="XXXX" />
       </list>
     </option>
   </component>
