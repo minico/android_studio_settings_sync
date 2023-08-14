@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ignoredtx" />
+    <option name="mostRecentlyUsed" value="finalize" />
     <option name="nonFavorites">
       <list>
+        <option value="render thread exit done" />
+        <option value="frames rendered" />
+        <option value="frames received" />
+        <option value="finalize" />
+        <option value="onSurfaceTextureDestroyed" />
+        <option value="com.kwai.video.krtc.rtcengine.render.a" />
+        <option value="RtcEngineTextureRender" />
+        <option value="onDetachedFromWindow" />
         <option value="ignoredtx" />
         <option value="audioinner" />
         <option value="XXX" />
@@ -15,14 +23,6 @@
         <option value="onPause" />
         <option value="camera" />
         <option value="Camera onDisconnected" />
-        <option value="Camera2Session" />
-        <option value="disconnect" />
-        <option value="CameraControllerImpl" />
-        <option value="onRawvideo" />
-        <option value="onOpenCameraFailed" />
-        <option value="package:mine rtcengine" />
-        <option value="RtcEngine" />
-        <option value=" USING DEFAULT So Loader Now! it is not Robust" />
       </list>
     </option>
   </component>
