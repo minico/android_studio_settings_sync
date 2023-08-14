@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="finalize" />
+    <option name="mostRecentlyUsed" value="xxx" />
     <option name="nonFavorites">
       <list>
+        <option value="xxx" />
+        <option value="onSurfaceTexture" />
+        <option value="onAttachedToWindow" />
+        <option value="XXXX" />
         <option value="finalize" />
         <option value="render thread exit done" />
         <option value="frames rendered" />
@@ -19,10 +23,6 @@
         <option value="pack" />
         <option value="keke" />
         <option value="=" />
-        <option value="gesture" />
-        <option value="onPause" />
-        <option value="camera" />
-        <option value="Camera onDisconnected" />
       </list>
     </option>
   </component>
