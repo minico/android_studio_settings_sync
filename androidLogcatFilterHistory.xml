@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="xxx" />
+    <option name="mostRecentlyUsed" value="onDetachedFromWindow" />
     <option name="nonFavorites">
       <list>
+        <option value="onDetachedFromWindow" />
+        <option value="clearlastframe" />
         <option value="xxx" />
         <option value="onSurfaceTexture" />
         <option value="onAttachedToWindow" />
@@ -14,7 +16,6 @@
         <option value="onSurfaceTextureDestroyed" />
         <option value="com.kwai.video.krtc.rtcengine.render.a" />
         <option value="RtcEngineTextureRender" />
-        <option value="onDetachedFromWindow" />
         <option value="ignoredtx" />
         <option value="audioinner" />
         <option value="XXX" />
@@ -22,7 +23,6 @@
         <option value="package" />
         <option value="pack" />
         <option value="keke" />
-        <option value="=" />
       </list>
     </option>
   </component>
